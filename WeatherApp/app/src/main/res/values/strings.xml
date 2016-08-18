@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops</string>
+    <string name="error_message">There was an error</string>
+    <string name="error_positive_button_text">OK</string>
+    <string name="network_message">Network is not connected</string>
+    <string name="no_daily_forecat_data">There is daily forecast data to display</string>
+    <string name="title_activity_hourly_forecast">HourlyForecastActivity</string>
+</resources>
